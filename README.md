@@ -1,4 +1,10 @@
 # CSCI 3308 Lab 2: Team Formation
+Recitation-011-Team-6
+Garret Weber - gawe8041
+Jared Dutton - duttojar
+Aryan Singh - arsi6998
+Sawyer Reinig - SawyerReinig
+Ethan Frederick - EthanFred
 
 |                                                Course Website                                                 |                                                   Canvas                                                    |                                              Piazza                                               |
 | :-----------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: |
@@ -18,3 +24,4 @@ git add submission
 git commit -m "add team document"
 git push
 ```
+
