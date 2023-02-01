@@ -1,10 +1,20 @@
 # CSCI 3308 Lab 2: Team Formation
 Recitation-011-Team-6
+
 Garret Weber - gawe8041
+
 Jared Dutton - duttojar
+
 Aryan Singh - arsi6998
+
 Sawyer Reinig - SawyerReinig
+
 Ethan Frederick - EthanFred
+
+## Poker Planning Link
+https://planningpokeronline.com/7Lsa1auo0JJnwN3dVBLN
+
+
 
 |                                                Course Website                                                 |                                                   Canvas                                                    |                                              Piazza                                               |
 | :-----------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: |
